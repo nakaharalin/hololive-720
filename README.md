@@ -65,7 +65,7 @@
 
 9、夜夜发布了一条附带视频的动态，让群众判断其是否真实跳反，同时发布了一条疑似有新的视频的动态。(动态截图和视频文件已上传至相关后续)(再次发布新动态)
 
-![夜夜视频](相关后续/[动态][动态]7月20日13点未知分-夜夜动态疑似新视频.png)
+![夜夜视频](相关后续/[动态]7月20日13点未知分-夜夜证明与石取得联系.png)
 
 ![冷处理](相关后续/[截图]一夜过后冷处理.jpg)
 
@@ -77,19 +77,19 @@
 
 ## 以下为石先生相关账号等
 
-| | |
-|----|-----|
-| QQ | 79749153|
-| 推特 | [https://twitter.com/Luz_non @Luz_non]|
-| 推特| [https://twitter.com/xxSIIxx @xxSIIxx]|
-| Line | intoblue00|
-| 脸书 | [https://www.facebook.com/weibin.shi/about 石巍斌]
-| 领英 | [https://www.linkedin.com/in/巍斌-石-a53202134 石巍斌 (Seki Gihin)]|
-| 喜马拉雅 | [https://www.ximalaya.com/zhubo/8316159 intoblue00]|
-| Pixiv | [https://www.pixiv.net/member.php?id=743489 いしなぎ@夜更かし]|
-| Youtube | [https://www.youtube.com/channel/UC_WZpUuDJsrQBk8pSYWpDVg 石巍斌]|
-| Bilibili | [https://space.bilibili.com/412149 ishinagi]|
-| Niconico.jp | [https://www.nicovideo.jp/user/7179452 石凪さん]|
+| 平台 | 账号     | 注   |
+| ---- | -------- | ---- |
+| QQ  | 79749153 |      |
+| 推特 |    https://twitter.com/Luz_non     |   @Luz_non   |
+| 推特 |    https://twitter.com/xxSIIxx     |   @xxSIIxx   |
+| Line |      intoblue00   |      |
+|  脸书   |    https://www.facebook.com/weibin.shi/about    |   石巍斌   |
+|  领英   |     https://www.linkedin.com/in/巍斌-石-a53202134     |     石巍斌 (Seki Gihin) |
+|  喜马拉雅   |   https://www.ximalaya.com/zhubo/8316159       |   intoblue00   |
+|  Pixiv   |    https://www.pixiv.net/member.php?id=743489      |    いしなぎ@夜更かし  |
+|  Youtube   |  https://www.youtube.com/channel/UC_WZpUuDJsrQBk8pSYWpDVg        |   石巍斌   |
+| Bilibili |https://space.bilibili.com/412149 | ishinagi|
+| Niconico | https://www.nicovideo.jp/user/7179452 | 石凪さん|
 
 待续
 
