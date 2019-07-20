@@ -1,4 +1,4 @@
-#     hololive 中国部分粉丝代表联名信
+#     hololive 中国部分粉丝代表联名信  [日文点这里](https://github.com/nakaharalin/hololive-720/.vscode/这里没有重要的东西，请不要在这里查看/README.md)
 
 请允许我代表部分中国 hololive 粉丝发表对近期事件进行发声。
 
