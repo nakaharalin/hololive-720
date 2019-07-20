@@ -68,6 +68,30 @@
 
 ![疑似卸任石某](相关后续/石某卸任_存疑.png)
 
+## 以下为石先生相关账号等
+    
+| QQ || 79749153
+
+| 推特 || [https://twitter.com/Luz_non @Luz_non]
+
+       || [https://twitter.com/xxSIIxx @xxSIIxx]
+
+| Line || intoblue00
+
+| 脸书 || [https://www.facebook.com/weibin.shi/about 石巍斌]
+
+| 领英 || [https://www.linkedin.com/in/巍斌-石-a53202134 石巍斌 (Seki Gihin)]
+
+| 喜马拉雅 || [https://www.ximalaya.com/zhubo/8316159 intoblue00]
+
+| Pixiv || [https://www.pixiv.net/member.php?id=743489 いしなぎ@夜更かし]
+
+| Youtube || [https://www.youtube.com/channel/UC_WZpUuDJsrQBk8pSYWpDVg 石巍斌]
+
+| Bilibili || [https://space.bilibili.com/412149 ishinagi]
+
+| Niconico.jp || [https://www.nicovideo.jp/user/7179452 石凪さん]
+
 待续
 
 ## 以下为爽哥在nga发表的总结(侵删)
