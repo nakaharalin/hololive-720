@@ -1,8 +1,8 @@
 # Hololive与中方对接人员 石先生 部分言行及相关资料整理
 ## 中国Hololive旗下全体VTB粉丝联名信已公开，原件(中文版和日文版)已授权上传
-| Bilibili动态 || [https://www.bilibili.com/read/cv3120762]
+[Bilibili动态](https://www.bilibili.com/read/cv3120762)
 
-| 推特动态 || [https://twitter.com/kiryubatora/status/1152545842273800192]
+[推特动态](https://twitter.com/kiryubatora/status/1152545842273800192)
 
 希望大家多多扩散，点赞转推或分享专栏给自己的友人等
 
@@ -29,7 +29,7 @@
 
 1、石某短暂出现，向字幕组“致歉”
 
-![石某疑似组内道歉](相关后续/石某疑似组内道歉.jpg)
+![石某疑似组内道歉](相关后续/[聊天截图]石某疑似组内道歉.jpg)
 
 2、夜夜宣布幻夜字幕组事情解决后解散，各组独立存在
 
@@ -43,19 +43,19 @@
 
 4、胃某发布了收益资金相关的B博(已上传至相关后续)(8%石头税)
 
-![胃某发布收益资金相关](相关后续/资金相关.jpg)
+![胃某发布收益资金相关](相关后续/[动态]7月20日9点未知分-胃动态说明资金克扣问题.jpg)
 
 5、推特发布道歉。(您未亵渎nm呢？)(已上传至相关后续)
 
-![推特道歉](相关后续/石某推特道歉.jpg)
+![推特道歉](相关后续/[道歉]石某推特道歉.jpg)
 
 6、胃某说B站承诺提前打款(已上传至相关后续)
 
-![承诺打款](相关后续/承诺打款.png)
+![承诺打款](相关后续/[评论]承诺打款.png)
 
 7、夜夜疑似与石某取得联系，如果半小时内不回复将公开聊天记录。(已上传至相关后续)
 
-![疑似取得联系](相关后续/疑似取得联系.jpg)
+![疑似取得联系](相关后续/[动态]7月20日13点未知分-夜夜动态表示与石取得联系.jpg)
 
 8、石某推特简介突然删除。(前后对比已上传至推特简介变动)
 
@@ -65,39 +65,31 @@
 
 9、夜夜发布了一条附带视频的动态，让群众判断其是否真实跳反，同时发布了一条疑似有新的视频的动态。(动态截图和视频文件已上传至相关后续)(再次发布新动态)
 
-![夜夜视频](相关后续/夜夜发布视频.png)
+![夜夜视频](相关后续/[动态][动态]7月20日13点未知分-夜夜动态疑似新视频.png)
 
-![冷处理](相关后续/一夜过后冷处理.jpg)
+![冷处理](相关后续/[截图]一夜过后冷处理.jpg)
 
 [视频链接](https://vc.bilibili.com/video/2362330)
 
 10、胃某发布COVER近期卸任石某的消息(相关截图已上传至相关后续)
 
-![疑似卸任石某](相关后续/石某卸任_存疑.png)
+![疑似卸任石某](相关后续/[动态]7月20日14点未知分-石某卸任_存疑.png)
 
 ## 以下为石先生相关账号等
-    
-| QQ || 79749153
 
-| 推特 || [https://twitter.com/Luz_non @Luz_non]
-
-| 推特|| [https://twitter.com/xxSIIxx @xxSIIxx]
-
-| Line || intoblue00
-
-| 脸书 || [https://www.facebook.com/weibin.shi/about 石巍斌]
-
-| 领英 || [https://www.linkedin.com/in/巍斌-石-a53202134 石巍斌 (Seki Gihin)]
-
-| 喜马拉雅 || [https://www.ximalaya.com/zhubo/8316159 intoblue00]
-
-| Pixiv || [https://www.pixiv.net/member.php?id=743489 いしなぎ@夜更かし]
-
-| Youtube || [https://www.youtube.com/channel/UC_WZpUuDJsrQBk8pSYWpDVg 石巍斌]
-
-| Bilibili || [https://space.bilibili.com/412149 ishinagi]
-
-| Niconico.jp || [https://www.nicovideo.jp/user/7179452 石凪さん]
+| | |
+|----|-----|
+| QQ | 79749153|
+| 推特 | [https://twitter.com/Luz_non @Luz_non]|
+| 推特| [https://twitter.com/xxSIIxx @xxSIIxx]|
+| Line | intoblue00|
+| 脸书 | [https://www.facebook.com/weibin.shi/about 石巍斌]
+| 领英 | [https://www.linkedin.com/in/巍斌-石-a53202134 石巍斌 (Seki Gihin)]|
+| 喜马拉雅 | [https://www.ximalaya.com/zhubo/8316159 intoblue00]|
+| Pixiv | [https://www.pixiv.net/member.php?id=743489 いしなぎ@夜更かし]|
+| Youtube | [https://www.youtube.com/channel/UC_WZpUuDJsrQBk8pSYWpDVg 石巍斌]|
+| Bilibili | [https://space.bilibili.com/412149 ishinagi]|
+| Niconico.jp | [https://www.nicovideo.jp/user/7179452 石凪さん]|
 
 待续
 
