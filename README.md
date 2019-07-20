@@ -74,7 +74,7 @@
 
 | 推特 || [https://twitter.com/Luz_non @Luz_non]
 
-       || [https://twitter.com/xxSIIxx @xxSIIxx]
+| 推特|| [https://twitter.com/xxSIIxx @xxSIIxx]
 
 | Line || intoblue00
 
