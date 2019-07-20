@@ -1,4 +1,4 @@
-#     hololive 中国部分粉丝代表联名信  [日文点这里](https://github.com/nakaharalin/hololive-720/blob/master/.vscode/%E8%BF%99%E9%87%8C%E6%B2%A1%E6%9C%89%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%8C%E8%AF%B7%E4%B8%8D%E8%A6%81%E5%9C%A8%E8%BF%99%E9%87%8C%E6%9F%A5%E7%9C%8B/jpn.ver.me)
+#     hololive 中国部分粉丝代表联名信  [日文点这里](https://github.com/nakaharalin/hololive-720/blob/master/%E4%B8%AD%E5%9B%BDholo%E7%B2%89%E4%B8%9D%E8%81%94%E5%90%8D%E4%BF%A1%E5%8E%9F%E4%BB%B6(%E5%B7%B2%E6%8E%88%E6%9D%83)/%E4%B8%AD%E5%9B%BDholo%E7%B2%89%E4%B8%9D%E8%81%94%E5%90%8D%E4%BF%A1%E5%8E%9F%E4%BB%B6%20-%20%E6%97%A5%E6%96%87.pdf)
 
 请允许我代表部分中国 hololive 粉丝发表对近期事件进行发声。
 
