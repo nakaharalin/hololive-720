@@ -42,6 +42,10 @@
 
 [字幕组停止对holo中国支持声明](https://hololive-720.vtbs.moe/%E5%B9%BB%E5%A4%9C%E5%8F%8A%E5%85%B6%E4%BB%96Holo%E7%9B%B8%E5%85%B3%E5%AD%97%E5%B9%95%E7%BB%84%E7%BD%A2%E5%B7%A5/)
 
+[石先生公司相关](https://hololive-720.vtbs.moe/%E7%9F%B3%E6%9F%90%E4%BA%BA%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF/)
+
+[推特变动](https://hololive-720.vtbs.moe/%E6%8E%A8%E7%89%B9%E7%AE%80%E4%BB%8B%E5%8F%98%E5%8A%A8/)
+
 ## 目前事态发展
 ## [事态发展请点此](https://hololive-720.vtbs.moe/%E7%9B%B8%E5%85%B3%E5%90%8E%E7%BB%AD/)
 
