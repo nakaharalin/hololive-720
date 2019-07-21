@@ -1,8 +1,13 @@
 # Hololive与中方对接人员 石先生 部分言行及相关资料整理
 ## 中国Hololive旗下全体VTB粉丝联名信已公开，原件(中文版和日文版)已授权上传
-[Bilibili动态](https://www.bilibili.com/read/cv3120762)
 
-[推特动态](https://twitter.com/kiryubatora/status/1152545842273800192)
+在线预览 [中文版](https://hololive-720.vtbs.moe/Hololive%E7%B2%89%E4%B8%9D%E8%81%94%E5%90%8D%E4%BF%A1%E4%B8%AD%E6%96%87%E7%89%88/) [日文版](https://hololive-720.vtbs.moe/Hololive%E7%B2%89%E4%B8%9D%E8%81%94%E5%90%8D%E4%BF%A1%E6%97%A5%E6%96%87%E7%89%88/)
+
+[下载(sau0)](https://pan.baidu.com/s/1OXJS8n5pe5nyD6SnH8rKbA)
+
+[Bilibili专栏](https://www.bilibili.com/read/cv3120762)
+
+[推特地质](https://twitter.com/kiryubatora/status/1152545842273800192)
 
 希望大家多多扩散，点赞转推或分享专栏给自己的友人等
 
