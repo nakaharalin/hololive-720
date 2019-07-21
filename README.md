@@ -7,7 +7,7 @@
 
 [Bilibili专栏](https://www.bilibili.com/read/cv3120762)
 
-[推特地质](https://twitter.com/kiryubatora/status/1152545842273800192)
+[推特](https://twitter.com/kiryubatora/status/1152545842273800192)
 
 希望大家多多扩散，点赞转推或分享专栏给自己的友人等
 
