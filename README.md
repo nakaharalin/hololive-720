@@ -1,11 +1,9 @@
 # Hololive与中方对接人员 石先生 部分言行及相关资料整理
 ## 中国Hololive旗下全体VTB粉丝联名信已公开，原件(中文版和日文版)已授权上传
 
-在线预览 [中文版](https://hololive-720.vtbs.moe/Hololive%E7%B2%89%E4%B8%9D%E8%81%94%E5%90%8D%E4%BF%A1%E4%B8%AD%E6%96%87%E7%89%88/) [日文版](https://hololive-720.vtbs.moe/Hololive%E7%B2%89%E4%B8%9D%E8%81%94%E5%90%8D%E4%BF%A1%E6%97%A5%E6%96%87%E7%89%88/)
+在线预览 [中文版](Hololive粉丝联名信中文版) [日文版](Hololive粉丝联名信日文版)
 
-[下载(sau0)](https://pan.baidu.com/s/1OXJS8n5pe5nyD6SnH8rKbA)
-
-[Bilibili专栏](https://www.bilibili.com/read/cv3120762)
+[Bilibili专栏](https://www.bilibili.com/read/cv3120762) ([Web Archive](https://web.archive.org/web/20190721035616/https://www.bilibili.com/read/cv3120762)) ([百度网盘下载 (sau0)](https://pan.baidu.com/s/1OXJS8n5pe5nyD6SnH8rKbA))
 
 [推特](https://twitter.com/kiryubatora/status/1152545842273800192)
 
@@ -47,7 +45,7 @@
 [推特变动](https://hololive-720.vtbs.moe/%E6%8E%A8%E7%89%B9%E7%AE%80%E4%BB%8B%E5%8F%98%E5%8A%A8/)
 
 ## 目前事态发展
-## [事态发展请点此](https://hololive-720.vtbs.moe/%E7%9B%B8%E5%85%B3%E5%90%8E%E7%BB%AD/)
+**[事态发展请点此](相关后续)**
 
 1、石某短暂出现，向字幕组“致歉”
 
