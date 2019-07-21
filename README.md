@@ -30,6 +30,18 @@
 
 (所有相关发言截图已整理,已上传口嗨京阿尼火灾事件的石锤视频素材)
 
+相关截图：
+
+[石先生迷惑发言](https://hololive-720.vtbs.moe/%E7%9F%B3%E7%9A%87%E5%B8%9D%E6%9C%AC%E4%BA%BA%E5%8F%91%E8%A8%80/)
+
+[相关人员迷惑发言](https://hololive-720.vtbs.moe/%E8%BF%B7%E6%83%91%E5%8F%A3%E5%97%A8%E5%A4%A7%E8%B5%8F/)
+
+[疑似骚扰中之人相关发言](https://hololive-720.vtbs.moe/%E9%AA%9A%E6%89%B0%E4%B8%AD%E4%B9%8B%E4%BA%BA%E7%9B%B8%E5%85%B3/)
+
+[Bilibili收益相关](https://hololive-720.vtbs.moe/B%E9%99%90%E6%94%B6%E7%9B%8A%E7%9B%B8%E5%85%B3/)
+
+[字幕组停止对holo中国支持声明](https://hololive-720.vtbs.moe/%E5%B9%BB%E5%A4%9C%E5%8F%8A%E5%85%B6%E4%BB%96Holo%E7%9B%B8%E5%85%B3%E5%AD%97%E5%B9%95%E7%BB%84%E7%BD%A2%E5%B7%A5/)
+
 ## 目前事态发展
 ## [事态发展请点此](https://hololive-720.vtbs.moe/%E7%9B%B8%E5%85%B3%E5%90%8E%E7%BB%AD/)
 
