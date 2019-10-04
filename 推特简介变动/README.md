@@ -9,7 +9,7 @@
 
 ## 推特现状
 ### 事件结束前
-<img src="推特更改(事件结束前).png" height="30%" width="30%"/>
+<img src="推特更改(事件结束前).png" height="50%" width="50%"/>
 
 ### 2019年10月4日截图
-<img src="推特现状(2019-10-4).png" height="30%" width="30%"/>
+<img src="推特现状(2019-10-4).png" height="50%" width="50%"/>
