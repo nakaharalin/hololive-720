@@ -19,7 +19,7 @@
     + [原文](#原文)
     + [幻夜字幕组翻译](#幻夜字幕组翻译)
   * [中国Hololive旗下全体VTB粉丝联名信已公开，原件(中文版和日文版)已授权上传](#中国Hololive旗下全体VTB粉丝联名信已公开，原件(中文版和日文版)已授权上传)
-  * [以下为爽哥在nga发表的总结(侵删)](#以下为爽哥在nga发表的总结----]
+  * [以下为爽哥在nga发表的总结(侵删)](#以下为爽哥在nga发表的总结----)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
