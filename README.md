@@ -33,8 +33,6 @@
 
 ## 前言
 
-此事持续跟进，石头人必死
-
 您未有亵渎生命的艺术的想法吗？石先生？
 
 现在加line骚扰，下次是不是就直接性骚扰中之人了？
@@ -92,6 +90,7 @@
 ### 夜夜发布了一条附带视频的动态，让群众判断其是否真实跳反，同时发布了一条疑似有新的视频的动态。
 
 [视频链接](https://vc.bilibili.com/video/2362330)
+
 ![夜夜视频](相关后续/[动态]7月20日13点未知分-夜夜证明与石取得联系.png)
 
 <img src="相关后续/[截图]一夜过后冷处理.jpg" height="50%" width="50%"/>
@@ -108,7 +107,7 @@
 # 最终公告
 
 ### 文本版
-[文本版](COVER官方公告)
+前往文件夹查看[文本版](COVER官方公告)
 
 ### 原文
 ![原文](COVER官方公告/最终公告.png)
@@ -118,11 +117,11 @@
 
 ## 中国Hololive旗下全体VTB粉丝联名信
 
-在线预览 [中文版](中国holo粉丝联名信原件(已授权)/Hololive粉丝联名信中文版) [日文版](中国holo粉丝联名信原件(已授权)/Hololive粉丝联名信日文版)
+在线预览：([中文版](中国holo粉丝联名信原件(已授权)/Hololive粉丝联名信中文版)) ([日文版](中国holo粉丝联名信原件(已授权)/Hololive粉丝联名信日文版))
 
-[Bilibili专栏](https://www.bilibili.com/read/cv3120762) ([Web Archive](https://web.archive.org/web/20190721035616/https://www.bilibili.com/read/cv3120762)) ([百度网盘下载 (sau0)](https://pan.baidu.com/s/1OXJS8n5pe5nyD6SnH8rKbA))
+Bilibili专栏：([专栏原地址](https://www.bilibili.com/read/cv3120762)) ([Web Archive](https://web.archive.org/web/20190721035616/https://www.bilibili.com/read/cv3120762)) ([百度网盘下载 (sau0)](https://pan.baidu.com/s/1OXJS8n5pe5nyD6SnH8rKbA))
 
-[推特](https://twitter.com/kiryubatora/status/1152545842273800192)
+推特：([ホロライブ中国ファンの一部の連名書簡](https://twitter.com/kiryubatora/status/1152545842273800192))
 
 
 ## 以下为爽哥在nga发表的总结
