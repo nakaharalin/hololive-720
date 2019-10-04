@@ -18,8 +18,8 @@
   * [[文本版]](#[文本版])
     + [原文](#原文)
     + [幻夜字幕组翻译](#幻夜字幕组翻译)
-  * [中国Hololive旗下全体VTB粉丝联名信已公开，原件(中文版和日文版)已授权上传](#中国Hololive旗下全体VTB粉丝联名信已公开，原件(中文版和日文版)已授权上传)
-  * [以下为爽哥在nga发表的总结(侵删)](#以下为爽哥在nga发表的总结----)
+  * [中国Hololive旗下全体VTB粉丝联名信](#中国Hololive旗下全体VTB粉丝联名信)
+  * [以下为爽哥在nga发表的总结](#以下为爽哥在nga发表的总结)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -106,7 +106,7 @@
 ### 幻夜字幕组翻译
 ![最终公告2](COVER官方公告/最终公告-幻夜字幕组.png)
 
-## 中国Hololive旗下全体VTB粉丝联名信已公开，原件(中文版和日文版)已授权上传
+## 中国Hololive旗下全体VTB粉丝联名信
 
 在线预览 [中文版](Hololive粉丝联名信中文版) [日文版](Hololive粉丝联名信日文版)
 
@@ -115,7 +115,7 @@
 [推特](https://twitter.com/kiryubatora/status/1152545842273800192)
 
 
-## 以下为爽哥在nga发表的总结(侵删)
+## 以下为爽哥在nga发表的总结
 
 <blockquote>
 就昨晚半夜我还在参与处理猴区京阿尼的高楼的时候看到管理群里有人问这个算无关帖吗，删了行不行
