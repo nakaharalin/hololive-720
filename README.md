@@ -108,7 +108,7 @@
 
 ## 中国Hololive旗下全体VTB粉丝联名信
 
-在线预览 [中文版](Hololive粉丝联名信中文版) [日文版](Hololive粉丝联名信日文版)
+在线预览 [中文版](中国holo粉丝联名信原件(已授权)/Hololive粉丝联名信中文版) [日文版](中国holo粉丝联名信原件(已授权)/Hololive粉丝联名信日文版)
 
 [Bilibili专栏](https://www.bilibili.com/read/cv3120762) ([Web Archive](https://web.archive.org/web/20190721035616/https://www.bilibili.com/read/cv3120762)) ([百度网盘下载 (sau0)](https://pan.baidu.com/s/1OXJS8n5pe5nyD6SnH8rKbA))
 
